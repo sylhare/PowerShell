@@ -5,6 +5,7 @@
 - [http://powershelltutorial.net/](http://powershelltutorial.net/)
 - [https://www.pdq.com/blog/powershell-how-to-write-your-first-powershell-script/](https://www.pdq.com/blog/powershell-how-to-write-your-first-powershell-script/)
 - [https://technet.microsoft.com/en-us/library/bb963733.aspx](https://technet.microsoft.com/en-us/library/bb963733.aspx)
+- [http://www.computerperformance.co.uk/powershell/powershell_example_basic.htm](http://www.computerperformance.co.uk/powershell/powershell_example_basic.htm)
 
 ## Introduction
 

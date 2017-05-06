@@ -16,3 +16,11 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+*.ps1 linguist-language=powershell
+
+# * linguist-vendored
+# *.md linguist-vendored=false
+
+# MD file wil be considered as documentation
+*.md/* linguist-documentation
