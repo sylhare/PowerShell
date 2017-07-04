@@ -7,6 +7,21 @@
 - [https://technet.microsoft.com/en-us/library/bb963733.aspx](https://technet.microsoft.com/en-us/library/bb963733.aspx)
 - [http://www.computerperformance.co.uk/powershell/powershell_example_basic.htm](http://www.computerperformance.co.uk/powershell/powershell_example_basic.htm)
 
+## Experiment with ISE
+
+To start developping script you can use the Powershell ISE that is by default installed.
+You can open it by looking for [Windows PowerShell ISE](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.core/about/about_powershell_ise_exe) or use cmd to launch any file or the ISE directly:
+
+	PowerShell_ISE –file "file1.ps1,file2.ps1"
+
+Here both files `file1.ps1` and `file2.ps1` will be opened in *Windows PowerShell ISE*.
+
+:warning: If you have trouble running a script, try running:
+
+	get-help about_signing
+
+You might not have allowed running powershell script on your computer.
+
 ## Introduction
 
 Open the powerShell (should be a command line screen with a blue background when opened from the windows start up menu). Or you can use cmd and type `start powershell` to launch it.
